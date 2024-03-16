@@ -1,0 +1,8 @@
+.container{
+    min-height: 7in;
+    background-color: rgb(255, 0, 0);
+    padding: 50px 30px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
